@@ -1,0 +1,18 @@
+```
+@online{kexuefm-10519,
+        title={VQ的又一技巧：给编码表加一个线性变换},
+        author={苏剑林},
+        year={2024},
+        month={Nov},
+        url={\url{https://kexue.fm/archives/10519}},
+}
+```
+```
+@online{kexuefm-11328,
+        title={DiVeQ：一种非常简洁的VQ训练方案},
+        author={苏剑林},
+        year={2025},
+        month={Oct},
+        url={\url{https://kexue.fm/archives/11328}},
+}
+```
